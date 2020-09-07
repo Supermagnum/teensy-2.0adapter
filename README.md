@@ -12,3 +12,6 @@ https://github.com/Supermagnum/teensy-2.0adapter/blob/master/teensy-adapter-sche
 
 Parts and PCB:
 https://aisler.net/p/ZNWZNCBF
+
+BOM:
+https://github.com/Supermagnum/teensy-2.0adapter/blob/master/BOM.html
